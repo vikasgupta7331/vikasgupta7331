@@ -1,38 +1,4 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@vikasgupta7331 
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
-
-shrutikakhe
-/
-shrutikakhe.github.io
-1
-00
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-shrutikakhe.github.io/solution-4/mod-4-sol/script.js /
-
-DipaliKelwde updated
-Latest commit d986427 1 hour ago
- History
- 0 contributors
-66 lines (60 sloc)  2.31 KB
-  
-// ******************************* 
+ // ******************************* 
 // START HERE IF YOU WANT AN EASIER STARTING POINT FOR THIS ASSIGNMENT
 // *******************************
 //
@@ -98,16 +64,3 @@ for (var i = 0; i < names.length; i++) {
 }
 
 })();
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-50 results found.
